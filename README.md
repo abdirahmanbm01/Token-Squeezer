@@ -2,6 +2,9 @@
 
 ## Overview
 Token Squeezer is a research-grade modular framework for pattern-based text compression. It detects structured entities in text (URLs, code snippets, emails, file paths, etc.), replaces them with placeholders, and quantifies savings in tokens and processing cost for large language models.
+<img width="1567" height="763" alt="image" src="https://github.com/user-attachments/assets/c1dfaaf8-8c84-4d09-8286-8298471d399d" />
+<img width="1592" height="774" alt="image" src="https://github.com/user-attachments/assets/7e6a77e0-6cd5-4204-90c3-39d6e1bbd3d6" />
+
 
 ## Modules
 - **pattern_detector.py** – defines `PatternDetector` and `ContentType` taxonomy.
