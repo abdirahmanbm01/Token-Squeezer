@@ -1,4 +1,4 @@
-# Token Squeezer: Pattern-Based Text Compression and Token Optimization
+# Token Optimizer: Pattern-Based Text Compression and Token Optimization
 
 ## Overview
 Token Squeezer is a research-grade modular framework for pattern-based text compression. It detects structured entities in text (URLs, code snippets, emails, file paths, etc.), replaces them with placeholders, and quantifies savings in tokens and processing cost for large language models.
